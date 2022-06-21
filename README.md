@@ -22,7 +22,7 @@ python AutoDM.py
 
 *Note: When you press the start button, it will start working in exactly 0 seconds with the real time clock.*
 
-## Developer By
+## Developed By
 ***Gürkan Karadağ***
 
 ## Social
