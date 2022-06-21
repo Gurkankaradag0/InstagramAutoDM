@@ -26,4 +26,4 @@ python AutoDM.py
 ***Gürkan Karadağ***
 
 ## Social
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/uğur-altınsoy/](https://www.linkedin.com/in/g%C3%BCrkan-karada%C4%9F-bb0243205/))
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%BCrkan-karada%C4%9F-bb0243205/)
