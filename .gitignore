@@ -1,9 +1,5 @@
 /.qt_for_python
-/1.txt
-/2.txt
-/3.txt
-/asda.txt
-/asdasdad.py
+/getLikesTest.py
 /build
 /seleniumsendmessage.py
 /seleniumtest.py
